@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sadlers new Tunbridge Wells near Islington. A full account how they were found out: the excellent medicinal vertues of the water, and success in several diseases: the manner of its working, and directions for the taking it.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29242</idno><idno type="EEBO-CITATION">99888677</idno>
+  <idno type="VID">203938</idno>
+  <idno type="EEBO-PROQUEST">2240901817</idno>
+  
+            <idno type="STC">Wing S282aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 778.k.15.[1]</idno>
+            <idno type="STC">ESTC R231528</idno>
+            <idno type="PROQUEST">ocm99888677</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888677e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 203938)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:2[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sadlers new Tunbridge Wells near Islington. A full account how they were found out: the excellent medicinal vertues of the water, and success in several diseases: the manner of its working, and directions for the taking it.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Harris at the Royal-Exchange in Cornhill.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1684?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Mineral waters --  Therapeutic use --  England --  Islington (London) --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:203938:1"/>
+            <pb facs="tcp:203938:1"/>
+            <head>SADLERS New Tunbridge Wells NEAR ISLINGTON.</head>
+            <head type="sub">A full Account how they were found out: The excel<g ref="char:EOLhyphen"/>lent Medicinal Vertues of the Water, and Success in several Diseases: The manner of its Working, and Directions for the taking it.</head>
+            <p>GReat and various are the Physical Proper<g ref="char:EOLhyphen"/>ties of Waters in divers places: Not to amuse the <hi>Reader</hi> with Tales of <hi>Pliny</hi> or more Modern <hi>Mandevils,</hi> who tell us of a Fountain at <hi>Bonitta</hi> (an Isle not far from <hi>Hispani<g ref="char:EOLhyphen"/>ola</hi>) which being Drank of, makes Old-Men Young again; of two others in <hi>Summatra,</hi> whereof one perpetually flows with pure natural Balsom, and the other with incomparable good Oyl: Of the <hi>Sabbatical</hi> River that runs fiercely all the Week, but on the Seventh Day rests its Streams, and re<g ref="char:EOLhyphen"/>mains dry: Of the Fountain of the <hi>Sun</hi> in <hi>Lybra,</hi> that is almost Scalding hot at Midnight, Frozen at Noon, and but warm towards Night; we leave such Incredibles to the Foolish wonderments of those that Love to be Bubled with far-fetcht <hi>Ro<g ref="char:EOLhyphen"/>mances:</hi> Nor need we look so far abroad as the <hi>Spaw,</hi> or the Water of <hi>Burbon,</hi> since our own Hap<g ref="char:EOLhyphen"/>py <hi>Brittain,</hi> is as Richly Furnish'd with those flow<g ref="char:EOLhyphen"/>ing Bounties of Nature, as perhaps any spot of the Universe, Witness our <hi>Sommerset-shire</hi> Baths, our <hi>York-shire</hi> Spaw, our <hi>Tunbridge, Epsom, Dullidge,</hi> (or rather <hi>Lewisham</hi>) <hi>Barnet</hi> and <hi>North-Hall</hi> Wa<g ref="char:EOLhyphen"/>ters, <hi>&amp;c.</hi> And as most of these were within Memo<g ref="char:EOLhyphen"/>ry of Man discovered, so there may no doubt ma<g ref="char:EOLhyphen"/>ny others from time to time be found out, which on Tryal may prove of equal or more Noble concern<g ref="char:EOLhyphen"/>ment to the Interests of Health; Of this kind we have a Notable Instance in these Wells near <hi>Isling<g ref="char:EOLhyphen"/>ton,</hi> which are the present Talk and Wonder of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and all the parts adjacent, whence thousands daily Resort to them, and find much benefit by the use of the Water, which has been tryed and consi<g ref="char:EOLhyphen"/>dered by most of the Eminent Physitians about this City, (I Speak not of <hi>Quacks</hi> and <hi>Empericks,</hi> but of the Learned Members of that Honourable and Renowned Colledge, which at this day makes so great a Figure amongst the Votaries of <hi>Aesculapius</hi> throughout Christendome) and is by them gene<g ref="char:EOLhyphen"/>rally approved as of good use in divers Distempers.</p>
+            <p>The manner how they were found out was thus, Mr. <hi>Sadler</hi> at the <hi>Musick-House</hi> by the <hi>New-River,</hi> in the Foot-way from <hi>Clarkenwell</hi> to <hi>Islington,</hi> hav<g ref="char:EOLhyphen"/>ing sometime since Imployed Men to Digg for Gra<g ref="char:EOLhyphen"/>vel in his Back-side, they lighted upon a large Stone, and that being taken up, a Curb of Oak lay under it, almost consumed to Dust, then they found the Mouth of a very Fair Well, as if in Ancient times it had been much in use; They acquainting the Master of the House, and the Water being Tasted, and found to be of a Tast Pleasant enough, yet dif<g ref="char:EOLhyphen"/>ferent from Common-Water, he Brewed Drink with it, which was found to be of a Purging Quality, but the Boiling as 'tis believed causing those particles whence it derived its Vertues, in a great Measure to Evaporate, it was not much ta<g ref="char:EOLhyphen"/>ken Notice of till about three Weeks since, when several Persons Drinking quantities of it Raw, they soon found its excellent effects, which engaged o<g ref="char:EOLhyphen"/>thers to try it, and the experience of all Joyning with the Judgment of the Learned, to confirm its Vertues, in few days it is advanced to General use, and two other Wells since discovered, one in a Cel<g ref="char:EOLhyphen"/>lar, and another in the Garden of the next House, whose Vertues is not yet known.</p>
+            <p>The Industrious Stow in his Survey of <hi>London,</hi> p. 8.9. &amp; 10. Speaking of the Waters serving that City, and mentioning <hi>Clerken-Well,</hi> tells us, that the same took Name of the Parish-Clerks in <hi>London,</hi> who (of old time) were accustomed there Yearly to Assemble, and to Play some large History of Ho<g ref="char:EOLhyphen"/>ly Scripture; and also, that near this <hi>Clerken-well</hi> there were four others, <hi>viz. Skinners-Well, Tod-Well, Loders-Well,</hi> and <hi>Rad-well,</hi> which are all de<g ref="char:EOLhyphen"/>cayed, and their places are hardly now (saith he) to be discerned; and he wrote about Fourscore Years since, for he Dedicated his Book to Sir <hi>Robert Lee</hi> Mayor, who was Mayor when King <hi>James</hi> came to
+<pb facs="tcp:203938:2"/>the Crown: Now whether these Three Wells were those Antiently so called, I will not determine: There is a Story abroad, grounded, 'tis said upon Tradition that in the times of Popery these Wells were in great Request, and one of them called <hi>Pardon-Well;</hi> For the Crafty Priests where ever they found a Physical excellency in the Water of any Spring, 'twas but attributing it to some Saint, and pretending the Natural Vertues to be Miracu<g ref="char:EOLhyphen"/>lous, and obtained by Prayers, Masses, Offerings, and the like, and then they could make their Mar<g ref="char:EOLhyphen"/>kets of it, as they do to this day of silly <hi>Roman Ca<g ref="char:EOLhyphen"/>thololicks</hi> at <hi>Winefreds-Well</hi> in <hi>Wales,</hi> and <hi>Patricks-Well</hi> in <hi>Ireland, &amp;c.</hi> And 'tis said, that by reason of such abuses after the Reformation, those Wells were stopt up, and have so remained hidden ever since, but I cannot find this Story confirmed in any Author that I have met with further than as a<g ref="char:EOLhyphen"/>foresaid.</p>
+            <p>If it be inquired whence some Waters come to acquire these Natural Vertues above others, and to have such various Operations, and to be ap<g ref="char:EOLhyphen"/>propriated to this or that Disease, I answer briefly, because such Springs in their Currents pass by or through several sorts of <hi>Earths,</hi> as Clay, Marle, Chalk, Brimstone, Bitumen; or, <hi>Concrete Juices,</hi> as <hi>Vitriol, Allum, Salt, Nitre,</hi> or <hi>Metals,</hi> as Gold, Silver, Iron, Copper, Tin, or the like, with which, or some of which, the Bowels of the Earth are al<g ref="char:EOLhyphen"/>most every where Replenish't, but much more in some places than others; Now the Water passing through these, does partake of the quality of each respectively, and so become <hi>Ting'd</hi> or impregna<g ref="char:EOLhyphen"/>ted with diverse properties adapted to such or such intentions of the Art of Healing; Nor is it to be wondred at, that such Waters should acquire a Tincture of those things, for as some of them are wash't away and incorporated with, and others Swim along on the Topp of them; so for <hi>Mine<g ref="char:EOLhyphen"/>rals,</hi> since every <hi>Dabbler</hi> in <hi>Chymistry</hi> can prepare such a penetrating <hi>Menstruum</hi> as shall dissolve the hardest <hi>Metalls,</hi> and Cloath it self with their qua<g ref="char:EOLhyphen"/>lities: 'Tis not to be doubted but Natures lower Laboratory is productive by several Ferments of such powerful Menstruums, as are able to un<g ref="char:EOLhyphen"/>lock the Bosom of <hi>Minerals,</hi> whereby their <hi>En<g ref="char:EOLhyphen"/>franchis'd Vertues</hi> are suck'd in by those <hi>Streams</hi> that pass that way.</p>
+            <p>These <hi>New-Springs</hi> by their tast seem to have a Tincture of Iron, and a <hi>Nitrous Salt,</hi> and some <hi>Sulphur,</hi> 'tis much of the Nature of those other Waters, as <hi>Tunbridge, Epsom,</hi> &amp;c. but somewhat more moderate, and for weak Bodies and tender Natures, 'tis better than any of them, and for stronger Constitutions, 'tis but taking the larger Dose: Its <hi>sensible</hi> Operation is chiefly by <hi>Ʋrine</hi> and <hi>Stool,</hi> (but not violently) of which it causes a plentiful Evacuation; And therefore cannot but be an excellent Remedy in Diseases caused by Obstructions, as the <hi>Schirrus</hi> (or hard Tumours) of the Liver or Spleen, the Stone in the Bladder or Kidnies, and all difficulties of <hi>Ʋrine,</hi> as also <hi>Fits of the Mother,</hi> the Virgins Feaver, and many Distempers of the <hi>Fair Sex,</hi> not convenient here to be mentioned; also in Dropsies, Jaundice of both sorts, and several other tedious Diseases; 'tis not doubted but Experience will find these Waters of singular good use, which many prove of unspeak<g ref="char:EOLhyphen"/>able benefit to Inhabitants of this Populous City, especially the <hi>Poor,</hi> who have not Mony either to Fee Doctors or Apothecaries, or to maintain them<g ref="char:EOLhyphen"/>selves at places Remote; whereas now, only for the charge of a moderate delicate walk, they may have the benefit of these happy Fountains and wash away their Diseases, without drowning their Purses.</p>
+            <p>I shall conclude with certain Directions for such as make use of this Water.</p>
+            <list>
+               <item>1. For the time of the Year, when ever the Wea<g ref="char:EOLhyphen"/>ther is clear or dry, you may take of it as well in the <hi>Winter</hi> as <hi>Summer,</hi> for in the <hi>Winter</hi> the Water is <hi>Strongest</hi> by an Antiperistasis, and as for <hi>Coldness,</hi> I hold it the best way at all times, to drink it warm; I do not mean by boiling of it, for that may Eva<g ref="char:EOLhyphen"/>porate its Vertues, but by mixing Milk therewith, of which a quarter of a pint scalding hot, put to three pints of the Water, will make it a conveni<g ref="char:EOLhyphen"/>ent warmth to be drunk, so as not to offend the Stomach, and this will be a competent Dose for most People at first, those that will drink more or less may proportion it accordingly.</item>
+               <item>2. The best way will be to follow it constantly for a fortnight or three weeks together, and begin with a smaller quantity, and encrease every day to the highest quantity you intend to Drink, and then decrease again for several days before you leave it off proportionably.</item>
+               <item>3. Your walk from any part of <hi>London</hi> thither gently, will excite the Natural Heat and prepare the Body; and after you have drank, it will be good to walk a while, but not so violently as to Sweat; have a care of Lying down on the ground, and of drinking soon after it, at least immoderate<g ref="char:EOLhyphen"/>ly, and especially avoid (that Bane of <hi>English<g ref="char:EOLhyphen"/>men</hi>) <hi>Brandy,</hi> which in this case will be very pernicious.</item>
+               <item>4. Remember to take with you a few <hi>Carraway Comfits,</hi> or a little preserved <hi>Angelica</hi> or <hi>Elecam<g ref="char:EOLhyphen"/>pane,</hi> to comfort the Stomach.</item>
+            </list>
+            <p>Lastly, let your food be Light, and of good quick Digestion, and after you have used the Waters as long as you thing fit, be sparing in your Diet for three or four weeks at least, to prevent Crudities, which Excess of Food will be apt to generate; But in dangerous Diseases (and indeed in all cases if you can afford it) 'twill be requisite to have the Directions of an able Physitian, who by his skill from your particular Constitution and Ha<g ref="char:EOLhyphen"/>bit of Body, may so order you, as much to Im<g ref="char:EOLhyphen"/>prove the benefit of the Waters, and prevent all ill accidents.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> B. Harris <hi>at the</hi> Royal-Exchange <hi>in</hi> Cornhill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
